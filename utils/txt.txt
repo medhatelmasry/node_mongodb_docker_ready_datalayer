@@ -1,0 +1,25 @@
+ Volume in drive D is Data
+ Volume Serial Number is 3846-8611
+
+ Directory of D:\demo\_docker\mongo_docker\nodedocker\utils
+
+2019-01-03  07:46 AM    <DIR>          .
+2019-01-03  07:46 AM    <DIR>          ..
+2019-01-03  07:40 AM               458 mongodb_create.js
+2019-01-03  07:40 AM               583 mongodb_createCollection.js
+2019-01-03  07:41 AM               653 mongodb_delete.js
+2019-01-03  07:41 AM               593 mongodb_drop_collection.js
+2019-01-03  07:41 AM               584 mongodb_find_all.js
+2019-01-03  07:41 AM               699 mongodb_find_fields.js
+2019-01-03  07:41 AM               587 mongodb_find_one.js
+2019-01-03  07:41 AM               918 mongodb_insert_ids.js
+2019-01-03  07:42 AM             1,223 mongodb_insert_many.js
+2019-01-03  07:42 AM               744 mongodb_insert_one.js
+2019-01-03  07:42 AM               591 mongodb_limit_results.js
+2019-01-03  07:42 AM               625 mongodb_query.js
+2019-01-03  07:42 AM               623 mongodb_regex.js
+2019-01-03  07:42 AM               663 mongodb_sort.js
+2019-01-03  07:42 AM               728 mongodb_update.js
+2019-01-03  07:46 AM                 0 txt.txt
+              16 File(s)         10,272 bytes
+               2 Dir(s)  141,675,544,576 bytes free
